@@ -3,7 +3,11 @@
 ## What is Kerberos ? 
 Kerberos is an authentication protocol, and at the same time a KDC, that has become very popular. Originally designed at MIT, it is named after the three-headed dog in Greek mythology that guards the gates of Hades. Kerberos has gone through several versions. The general concept is shown in Figure 1 and the detailed interaction is shown in Figure 2. This Kerberos works as a Key Distribution Center (KDC). It provides authentication, key generation, and key distribution.
 
+### Prerequisites
 
+```
+JAVA 8 
+```
 
 ## Structure of the system 
    	The system below is structured into main 4 packages :
