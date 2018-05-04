@@ -16,7 +16,8 @@ JAVA 8
    	3. Services : Here Where the real work coming on. It include a services  classes 
    	4. Test  : The Test App .
    
-   Note : To ensure quality of code and objects thinking , 
+   **Note :**
+   To ensure quality of code and objects thinking , 
   			 we implement some design pattern like singleton , Factory pattern , MVC , Transfer Object pattern ,
     		 Data Access Object and Chain of Responsibility design patterns. 
    	     Also we use AES/CBC/PKCS5Padding Encryption 128-bit encryption algorithm
